@@ -12,15 +12,16 @@ Credit to [@jyoung8607](https://github.com/jyoung8607) for resolving this issue.
 Yes! I've driven two days of normal routes, with stops starts and everything in between with zero issue. No errors or strange behaviour what-so-ever. 
 
 ### Installation
-If you'd like to install this branch, use the following URL in your C3X:
+If you'd like to install the fixed branch[^1], use the following URL in your C3X:
 
 ``` https://smiskol.com/fork/Gyrohammer/dev-c3 ```
 
 Shortened Link:
 
-``` https://ishortn.ink/Wb8wHCb ``` [^1]
+``` https://ishortn.ink/Wb8wHCb ``` [^2]
 
 ## Future
 I lack the skills to continue to update this, so this will be a one-off unless any major changes occur. If it needs to be updated I'll sync with the main branch and make the adjustments again. I wont be doing anything custom, save for this fix.
 
-[^1]: I'm unsure as to how long this shortened link will stay 'alive'. If it doesnt work use the long link.
+[^1]: I chose the dev branch to have the newest features and driving models. I dont plan to change any other branches.
+[^2]: I'm unsure as to how long this shortened link will stay 'alive'. If it doesnt work use the long link.
