@@ -2,7 +2,12 @@
 
 I've been wanting to try SunnyPilot (SP) for quite some time, but have been unable to due to some EPS faults. The error in particular is [#30495](https://github.com/commaai/openpilot/issues/30495), the pull request to fix it is, [#31450](https://github.com/commaai/openpilot/pull/31450). I understand that development takes time, so after waiting about a month with little activity I decided to create my own fork and implement the required changes. 
 
-## How does it drive? Does it work? 
+## What are these changes?
+ - 'minsteerspeed' changed to 0.4m/s from 1.0m/s
+ - Low speed warnings have been adjusted to accomodate.
+Credit to [@jyoung8607](https://github.com/jyoung8607) for resolving this issue. I take no credit for the fix, other than test driving the initial changes.
+
+## Does it work? 
 
 Yes! I've driven two days of normal routes, with stops starts and everything in between with zero issue. No errors or strange behaviour what-so-ever. 
 
